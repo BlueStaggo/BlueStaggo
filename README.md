@@ -1,4 +1,4 @@
-I'm @BlueStaggo! I like making games, usually with MonoGame, Godot or Phaser. I know C#, C++, Java and Python.
+I'm @BlueStaggo! I like making games, usually with MonoGame or Godot. I primarily focus on C# and C++.
 
 <!---
 BlueStaggo/BlueStaggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
