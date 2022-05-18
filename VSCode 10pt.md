@@ -18,4 +18,8 @@ JetBrains Mono:\
 &nbsp;&nbsp;&nbsp;&nbsp;13.33px\
 ![image](https://user-images.githubusercontent.com/71090710/118678256-c3cfa280-b7f4-11eb-93da-15fcfb9964a8.png)
 
+Mononoki:\
+&nbsp;&nbsp;&nbsp;&nbsp;12.5px *(not exact)*\
+![image](https://user-images.githubusercontent.com/71090710/169105937-9b02a9ed-59f9-4c5b-85db-1ffce5851adb.png)
+
 You're welcome.
